@@ -3,6 +3,7 @@ This repository contains all of the Solidworks models for our MECH 202 Submarine
 at that point I'll upload the completed project to OneDrive. Hope you remember GitHub from MECH 105.
 
 
+   ![alt text](https://github.com/DroTron/Submarine-Project/blob/master/Solidworks/Pictures/1.PNG)
    
 # Git Command
 `git clone https://github.com/DroTron/Submarine-Project`
