@@ -1,6 +1,5 @@
 # Submarine Project
-This repository contains all of the Solidworks models for our MECH 202 Submarine project. Due to some minor issues with OneDrive I'm going to use this up until the entire model is done,
-at that point I'll upload the completed project to OneDrive. Hope you remember GitHub from MECH 105.
+This repository contains all of the Solidworks models for our MECH 202 Submarine project. The goal of this project was to learn the design process by designing and building a submarine that could get across a pool and to the bottom as quickly as possible. Due to COVID-19 we were unable to build a real model, so this contains a Solidworks model and a report that assumes we did build it in order to get the experience.
 
 
    ![alt text](https://github.com/DroTron/Submarine-Project/blob/master/Solidworks/Pictures/1.PNG)
